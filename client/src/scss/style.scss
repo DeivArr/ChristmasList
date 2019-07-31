@@ -1,0 +1,43 @@
+html, #root
+{
+    background-image: url('../img/christmas.png');
+}
+
+.container
+{
+    display: inline-flex;
+}
+
+.jumbotron
+{
+    text-align: center; 
+    color: red;
+    background-color: white;
+}
+
+.element
+{
+    width: 100%;
+
+    .whole
+    {
+        width: 100%;
+        display: inline-flex;
+    }
+
+    .half
+    {
+        width: 70%;
+    }
+
+    .secondHalf
+    {
+        width: 30%;
+        text-align: right;
+    }
+
+    i
+    {
+        cursor: pointer;
+    }
+}
