@@ -1,5 +1,4 @@
-# Foobar
-Christmas List made with Love!
+# Christmas List made with Love!
 
 ## Contributing
 Me, the other me & Myself.
